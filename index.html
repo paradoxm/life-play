@@ -8,11 +8,18 @@
 <meta name="description" content="Тебе выпадет любая жизнь. Проживи её достойно.">
 <link rel="icon" type="image/png" sizes="32x32" href="./favicon.png">
 <link rel="apple-touch-icon" href="./apple-touch-icon.png">
+<link rel="manifest" href="./manifest.webmanifest">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Жизнь">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!-- Chrome may offer installation before the app starts: keep the event for the game's own offer instead of the browser's mini-bar. -->
+<script>addEventListener('beforeinstallprompt', function (event) { event.preventDefault(); window.lifeInstallPrompt = event; });</script>
 <meta property="og:title" content="Жизнь">
 <meta property="og:description" content="Тебе выпадет любая жизнь. Проживи её достойно.">
 <meta property="og:image" content="https://paradoxm.github.io/life-play/logo.png">
-  <script type="module" crossorigin src="./assets/index-DKDBEmzx.js"></script>
-  <link rel="stylesheet" crossorigin href="./assets/index-BrQAhua0.css">
+  <script type="module" crossorigin src="./assets/index-Byj_ebry.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-DUTKRd3T.css">
 </head>
 <body>
 <div id="app"></div>
