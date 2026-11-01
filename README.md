@@ -16,6 +16,6 @@ The game is in Russian; other languages are planned.
 
 ## About this repository
 
-This repository holds only the published build of the game (GitHub Pages). The source code, texts and research are kept in a private repository.
+This repository holds only the published build of the game (GitHub Pages). The source code, texts and research are kept in a private repository. Pull requests and outside commits are not accepted; only the author publishes here.
 
 © 2026 paradoxm. All rights reserved. Copying the code, texts or scenarios without written permission is prohibited.
