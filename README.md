@@ -12,7 +12,7 @@ Every scene follows the numbers of its country and era: life expectancy, child m
 - **For phones.** Install it to the home screen; after one visit it plays offline.
 - **18+.** The game speaks plainly about poverty, violence, loss and death.
 
-The game is in Russian; other languages are planned.
+The game is in Russian; other languages are planned. Anonymous visit statistics are collected with Yandex Metrica.
 
 ## About this repository
 
